@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e5898"
+  },
+  "ID": "CP01",
+  "Name": "Viettel",
+  "Address": "Hồ Chí Minh City",
+  "Hotline": {
+    "$numberLong": "2888896111"
+  },
+  "Email": "company01@example.com",
+  "Vacancies": [
+    {
+      "Role": "DA",
+      "Level": "JD",
+      "Quantity": 2
+    },
+    {
+      "Role": "MLR",
+      "Level": "SL",
+      "Quantity": 2
+    }
+  ],
+  "Account": [
+    {
+      "Name": "company01@example.com",
+      "Pass": "123456"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e5899"
+  },
+  "ID": "CP02",
+  "Name": "Intel Corporation",
+  "Address": "Hồ Chí Minh City",
+  "Hotline": {
+    "$numberLong": "2888896323"
+  },
+  "Email": "company02@example.com",
+  "Vacancies": [
+    {
+      "Role": "MLM",
+      "Level": "LD",
+      "Quantity": 4
+    },
+    {
+      "Role": "AE",
+      "Level": "LD",
+      "Quantity": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589a"
+  },
+  "ID": "CP03",
+  "Name": "PFT Software",
+  "Address": "Đà Nẵng City",
+  "Hotline": {
+    "$numberLong": "2888896472"
+  },
+  "Email": "company02@example.com",
+  "Vacancies": [
+    {
+      "Role": "AE",
+      "Level": "SD",
+      "Quantity": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589b"
+  },
+  "ID": "CP04",
+  "Name": "Enclave",
+  "Address": "Đà Nẵng City",
+  "Hotline": {
+    "$numberLong": "2888896498"
+  },
+  "Email": "company01@example.com",
+  "Vacancies": [
+    {
+      "Role": "DS",
+      "Level": "SL",
+      "Quantity": 2
+    },
+    {
+      "Role": "DA",
+      "Level": "JD",
+      "Quantity": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589c"
+  },
+  "ID": "CP05",
+  "Name": "FPT Software",
+  "Address": "Hải Phòng City",
+  "Hotline": {
+    "$numberLong": "2888896918"
+  },
+  "Email": "company05@example.com",
+  "Vacancies": [
+    {
+      "Role": "AIS",
+      "Level": "MM",
+      "Quantity": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589d"
+  },
+  "ID": "CP06",
+  "Name": "VNG Corporation",
+  "Address": "Hải Phòng City",
+  "Hotline": {
+    "$numberLong": "2888896731"
+  },
+  "Email": "company06@example.com",
+  "Vacancies": [
+    {
+      "Role": "ADS",
+      "Level": "SD",
+      "Quantity": 3
+    },
+    {
+      "Role": "DS",
+      "Level": "MM",
+      "Quantity": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589e"
+  },
+  "ID": "CP07",
+  "Name": "Bravo",
+  "Address": "Hà Nội",
+  "Hotline": {
+    "$numberLong": "2888896391"
+  },
+  "Email": "company07@example.com",
+  "Vacancies": []
+},
+{
+  "_id": {
+    "$oid": "65341b872c37a4d0550e589f"
+  },
+  "ID": "CP08",
+  "Name": "FPT Software",
+  "Address": "Hà Nội",
+  "Hotline": {
+    "$numberLong": "2888896289"
+  },
+  "Email": "company08@example.com",
+  "Vacancies": []
+}]

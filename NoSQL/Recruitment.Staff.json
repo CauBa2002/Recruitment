@@ -1,0 +1,311 @@
+[{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7603"
+  },
+  "Id": 1,
+  "Name": "John Smith",
+  "Date of birth": "1985-05-10",
+  "Address": "123 Main Street, New York",
+  "Email": "john.smith@example.com",
+  "Number phone": "(555) 123-4567",
+  "Age": 38,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP01",
+      "Role": "DA",
+      "Level": "JD"
+    },
+    {
+      "ID_Cty": "CP06",
+      "Role": "ADS",
+      "Level": "SD"
+    },
+    {
+      "ID_Cty": "CP06",
+      "Role": "DS",
+      "Level": "MM"
+    }
+  ],
+  "Account": [
+    {
+      "Name": "john.smith@example.com",
+      "Pass": "123456"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7604"
+  },
+  "Id": 2,
+  "Name": "Sarah Johnson",
+  "Date of birth": "1990-08-15",
+  "Address": "456 Elm Street, Los Angeles",
+  "Email": "sarah.johnson@example.com",
+  "Number phone": "(555) 987-6543",
+  "Age": 33,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP02",
+      "Role": "MLM",
+      "Level": "LD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7605"
+  },
+  "Id": 3,
+  "Name": "Michael Brown",
+  "Date of birth": "1982-03-21",
+  "Address": "789 Oak Avenue, Chicago",
+  "Email": "michael.brown@example.com",
+  "Number phone": "(555) 321-7890",
+  "Age": 41,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP05",
+      "Role": "AIS",
+      "Level": "MM"
+    },
+    {
+      "ID_Cty": "CP04",
+      "Role": "DS",
+      "Level": "SL"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7606"
+  },
+  "Id": 4,
+  "Name": "Emily Davis",
+  "Date of birth": "1995-11-02",
+  "Address": "567 Pine Road, San Francisco",
+  "Email": "emily.davis@example.com",
+  "Number phone": "(555) 654-3210",
+  "Age": 28,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP02",
+      "Role": "MLM",
+      "Level": "LD"
+    },
+    {
+      "ID_Cty": "CP01",
+      "Role": "DA",
+      "Level": "JD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7607"
+  },
+  "Id": 5,
+  "Name": "David Wilson",
+  "Date of birth": "1988-09-17",
+  "Address": "234 Cedar Lane, Houston",
+  "Email": "david.wilson@example.com",
+  "Number phone": "(555) 890-1234",
+  "Age": 35,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP03",
+      "Role": "AE",
+      "Level": "SD"
+    },
+    {
+      "ID_Cty": "CP05",
+      "Role": "AIS",
+      "Level": "MM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7608"
+  },
+  "Id": 6,
+  "Name": "Jessica Lee",
+  "Date of birth": "1992-07-08",
+  "Address": "890 Maple Drive, Miami",
+  "Email": "jessica.lee@example.com",
+  "Number phone": "(555) 456-7890",
+  "Age": 31,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP01",
+      "Role": "MLR",
+      "Level": "SL"
+    },
+    {
+      "ID_Cty": "CP03",
+      "Role": "AE",
+      "Level": "SD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7609"
+  },
+  "Id": 7,
+  "Name": "Christopher Taylor",
+  "Date of birth": "1980-01-30",
+  "Address": "345 Birch Street, Dallas",
+  "Email": "chris.taylor@example.com",
+  "Number phone": "(555) 789-0123",
+  "Age": 43,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP06",
+      "Role": "ADS",
+      "Level": "SD"
+    },
+    {
+      "ID_Cty": "CP02",
+      "Role": "MLM",
+      "Level": "LD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760a"
+  },
+  "Id": 8,
+  "Name": "Megan White",
+  "Date of birth": "1987-06-12",
+  "Address": "678 Willow Lane, Seattle",
+  "Email": "megan.white@example.com",
+  "Number phone": "(555) 234-5678",
+  "Age": 36,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP02",
+      "Role": "AE",
+      "Level": "LD"
+    },
+    {
+      "ID_Cty": "CP01",
+      "Role": "MLR",
+      "Level": "SL"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760b"
+  },
+  "Id": 9,
+  "Name": "Robert Garcia",
+  "Date of birth": "1993-04-25",
+  "Address": "1234 Redwood Avenue, Atlanta",
+  "Email": "robert.garcia@example.com",
+  "Number phone": "(555) 567-8901",
+  "Age": 30,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP02",
+      "Role": "AE",
+      "Level": "LD"
+    },
+    {
+      "ID_Cty": "CP06",
+      "Role": "ADS",
+      "Level": "SD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760c"
+  },
+  "Id": 10,
+  "Name": "Ashley Martinez",
+  "Date of birth": "1989-12-05",
+  "Address": "9876 Sycamore Road, Denver",
+  "Email": "ashley.martinez@example.com",
+  "Number phone": "(555) 876-5432",
+  "Age": 34,
+  "Recruitment": [
+    {
+      "ID_Cty": "CP04",
+      "Role": "DA",
+      "Level": "JD"
+    },
+    {
+      "ID_Cty": "CP03",
+      "Role": "AE",
+      "Level": "SD"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760d"
+  },
+  "Id": 11,
+  "Name": "William Johnson",
+  "Date of birth": "1984-02-14",
+  "Address": "543 Oak Street, Boston",
+  "Email": "william.johnson@example.com",
+  "Number phone": "(555) 345-6789",
+  "Age": 39,
+  "Recruitment": []
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760e"
+  },
+  "Id": 12,
+  "Name": "Olivia Anderson",
+  "Date of birth": "1994-10-09",
+  "Address": "456 Pine Avenue, Phoenix",
+  "Email": "olivia.anderson@example.com",
+  "Number phone": "(555) 234-5678",
+  "Age": 29,
+  "Recruitment": []
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc760f"
+  },
+  "Id": 13,
+  "Name": "James Thomas",
+  "Date of birth": "1986-07-23",
+  "Address": "789 Maple Lane, Philadelphia",
+  "Email": "james.thomas@example.com",
+  "Number phone": "(555) 789-1234",
+  "Age": 37,
+  "Recruitment": []
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7610"
+  },
+  "Id": 14,
+  "Name": "Sophia Hernandez",
+  "Date of birth": "1991-03-18",
+  "Address": "234 Birch Road, San Diego",
+  "Email": "sophia.hernandez@example.com",
+  "Number phone": "(555) 456-7890",
+  "Age": 32,
+  "Recruitment": []
+},
+{
+  "_id": {
+    "$oid": "65355a832be06f6d20cc7611"
+  },
+  "Id": 15,
+  "Name": "Ethan Jackson",
+  "Date of birth": "1983-09-06",
+  "Address": "567 Cedar Lane, Washington",
+  "Email": "ethan.jackson@example.com",
+  "Number phone": "(555) 890-1234",
+  "Age": 40,
+  "Recruitment": []
+}]
